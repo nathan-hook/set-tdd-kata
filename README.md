@@ -10,7 +10,8 @@ mantra.
 
 Other things to practice while doing your TDD Katas:
 
-IDE Keyboard Short Cuts.
+IDE Keyboard Short Cuts:
+
 Intellij Keymap ([Windows](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf), [MAC](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf))
 
 Eclipse Keymap ([Windows](http://eclipse-tools.sourceforge.net/Keyboard_shortcuts_(3.0).pdf), [MAC](https://www.cheatography.com/ankushagarwal11/cheat-sheets/eclipse-mac-os-x/))
