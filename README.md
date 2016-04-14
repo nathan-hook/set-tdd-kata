@@ -2,6 +2,24 @@
 
 A Set is an UNORDERED collection that contains NO DUPLICATE values.
 
+Typical Set methods:
+  add(Object) *
+  addAll(List<Object>)
+  addAll(Set<Object>)
+  clear( )
+  clone( )
+  contains(Object) *
+  containsAll(List<Object>)
+  containsAll(Set<Object>)
+  equals(Set<Object>)
+  hashCode( )
+  isEmpty ( ) *
+  remove(Object)
+  removeAll(List<Object>)
+  removeAll(Set<Object>)
+  retainAll(List<Object>)
+  retainAll(Set)
+  Size(  ) *
 
 TDD Katas are exercises used for practicing Test Driven Development which follows the
 "[Red, green, refactor](http://www.santeon.com/insight-blog/video-and-article/33-insight-blog/video-and-article/229-test-driven-development-red-green-refactor)"
