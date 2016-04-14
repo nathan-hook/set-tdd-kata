@@ -19,7 +19,7 @@ Typical Set methods:
 * removeAll(Set<Object>)
 * retainAll(List<Object>)
 * retainAll(Set)
-* Size(  ) *
+* Size(  )
 
 <br/>
 TDD Katas are exercises used for practicing Test Driven Development which follows the
