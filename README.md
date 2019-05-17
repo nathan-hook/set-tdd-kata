@@ -21,7 +21,7 @@ Typical Java Set methods:
 * retainAll(Set)
 * Size( )
 
-TDD Katas are exercises used for practicing Test Driven Development which follows the [Red, green, refactor](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html).
+TDD Katas are exercises used for practicing Test Driven Development which follows the [red, green, refactor](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) mantra.
 
 
 Other things to practice while doing your TDD Katas:
