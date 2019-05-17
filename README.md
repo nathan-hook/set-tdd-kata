@@ -24,9 +24,7 @@ Typical Set methods:
 </ul>
 
 <br/>
-TDD Katas are exercises used for practicing Test Driven Development which follows the [Red, green, refactor](http://www.santeon.com/insight-blog/video-and-article/33-insight-blog/video-and-article/229-test-driven-development-red-green-refactor) 
-[Red, green, refactor](http://www.santeon.com/insight-blog/video-and-article/33-insight-blog/video-and-article/229-test-driven-development-red-green-refactor)
-mantra.
+TDD Katas are exercises used for practicing Test Driven Development which follows the [Red, green, refactor](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) mantra.
 
 
 Other things to practice while doing your TDD Katas:
