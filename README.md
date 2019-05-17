@@ -2,30 +2,26 @@
 
 A Set is an UNORDERED collection that contains NO DUPLICATE values.
 
-Typical Set methods:
-<ul>
-<li>add(String)</li>
-<li>addAll(List<String>)</li>
-<li>addAll(Set<String>)</li>
-<li>clear( )</li>
-<li>clone( )</li>
-<li>contains(String)</li>
-<li>containsAll(List<String>)</li>
-<li>containsAll(Set<String>)</li>
-<li>equals(Set<String>)</li>
-<li>hashCode( )</li>
-<li>isEmpty( )</li>
-<li>remove(String)</li>
-<li>removeAll(List<String>)</li>
-<li>removeAll(Set<String>)</li>
-<li>retainAll(List<String>)</li>
-<li>retainAll(Set)</li>
-<li>Size( )</li>
-</ul>
+Typical Java Set methods:
+*add(String)
+*addAll(List<String>)
+*addAll(Set<String>)
+*clear( )
+*clone( )
+*contains(String)
+*containsAll(List<String>)
+*containsAll(Set<String>)
+*equals(Set<String>)
+*hashCode( )
+*isEmpty( )
+*remove(String)
+*removeAll(List<String>)
+*removeAll(Set<String>)
+*retainAll(List<String>)
+*retainAll(Set)
+*Size( )
 
-<br/>
-
-TDD Katas are exercises used for practicing Test Driven Development which follows the [Red, green, refactor](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) [GitHub](http://github.com) mantra [GitHub Pages](https://pages.github.com/).
+TDD Katas are exercises used for practicing Test Driven Development which follows the [Red, green, refactor](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html).
 
 
 Other things to practice while doing your TDD Katas:
